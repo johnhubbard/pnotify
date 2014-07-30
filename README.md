@@ -16,6 +16,6 @@ Therefore, this pnotify patch is meant to provide that missing piece. Pnotify lo
 
 There are two sub-projects, each of which is a complete fork of a Linux kernel tree:
 
-pnotify-stable: early versions of internal patches, against selected linux-stable tree releases
+[pnotify-stable](https://github.com/johnhubbard/pnotify-stable): early versions of internal patches, against selected linux-stable tree releases
 
-pnotify-next: ongoing development, intended to be submitted upstream to kernel.org/LKML.
+[pnotify-next](https://github.com/johnhubbard/pnotify-next): ongoing development, intended to be submitted upstream to kernel.org/LKML.

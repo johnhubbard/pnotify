@@ -14,8 +14,8 @@ The Linux kernel has inotify and fanotify, which provide notification of events 
 
 Therefore, this pnotify patch is meant to provide that missing piece. Pnotify looks a lot like inotify, but operates on processes, rather than on inodes.
 
-There are two sub-projects, each of which is a complete fork of a Linux kernel tree:
+There are the following sub-projects, each of which is a complete fork of a Linux kernel tree:
 
-[pnotify-stable](https://github.com/johnhubbard/pnotify-stable): early versions of internal patches, against selected linux-stable tree releases
+[pnotify-linux-3.0.52](https://github.com/johnhubbard/pnotify-3.0.52): pnotify patches that apply to the Linux 3.0.52 source tree.
 
-[pnotify-next](https://github.com/johnhubbard/pnotify-next): ongoing development, intended to be submitted upstream to kernel.org/LKML.
+[pnotify-linux-3.12.20](https://github.com/johnhubbard/pnotify-3.12.20): pnotify patches that apply to the Linux 3.12.20 source tree.

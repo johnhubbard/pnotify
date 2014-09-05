@@ -16,6 +16,6 @@ Therefore, this pnotify patch is meant to provide that missing piece. Pnotify lo
 
 There are the following sub-projects, each of which is a complete fork of a Linux kernel tree:
 
-[pnotify-linux-3.0.52](https://github.com/johnhubbard/pnotify-3.0.52): pnotify patches that apply to the Linux 3.0.52 source tree.
+[pnotify-linux-3.0.52](https://github.com/johnhubbard/pnotify-linux-3.0.52): pnotify patches that apply to the Linux 3.0.52 source tree.
 
-[pnotify-linux-3.12.20](https://github.com/johnhubbard/pnotify-3.12.20): pnotify patches that apply to the Linux 3.12.20 source tree.
+[pnotify-linux-3.12.20](https://github.com/johnhubbard/pnotify-linux-3.12.20): pnotify patches that apply to the Linux 3.12.20 source tree.
